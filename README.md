@@ -1,6 +1,6 @@
 # weitherapp
 
-![](scree.jpg) 
+this is the screenshot of the Ui ![](screen.jpg)
 
 A new Flutter project.
 
